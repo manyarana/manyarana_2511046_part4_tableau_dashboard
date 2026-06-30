@@ -181,10 +181,11 @@ The complete narrative is available in:
 The repository contains the following screenshots:
 
 - `full_dashboard.png`
-- `sales_trend_view.png`
-- `regional_performance_view.png`
-- `category_profitability_view.png`
-- `filter_interaction_view.png`
+(https://github.com/manyarana/manyarana_2511046_part4_tableau_dashboard/blob/main/screenshots/full_dashboard.png)
+- `sales_trend_view.png` (https://github.com/manyarana/manyarana_2511046_part4_tableau_dashboard/blob/main/screenshots/sales_trend_view.png)
+- `regional_performance_view.png` (https://github.com/manyarana/manyarana_2511046_part4_tableau_dashboard/blob/main/screenshots/regional_performance_view.png)
+- `category_profitability_view.png` (https://github.com/manyarana/manyarana_2511046_part4_tableau_dashboard/blob/main/screenshots/category_profitability_view.png)
+- `filter_interaction_view.png` (https://github.com/manyarana/manyarana_2511046_part4_tableau_dashboard/blob/main/screenshots/filter_interaction_view.png)
 
 These screenshots demonstrate the dashboard layout, individual visualizations, and interactive filtering.
 
